@@ -3,6 +3,10 @@ Overview
 
 This project focused on identifying virtual machines within a shared services environment that were unintentionally exposed to the public internet. The objective was to detect any brute-force login attempts, verify if any of them were successful, and implement security controls to prevent future exposure.
 
+
+<img width="1000" height="1024" alt="image" src="https://github.com/user-attachments/assets/50081321-f197-4d30-b1fb-01ec13572c26" />
+
+
 # Identified Internet-Exposed Devices
 
 <img width="1000" height="650" alt="Screen Shot 2025-11-18 at 9 55 54 am" src="https://github.com/user-attachments/assets/36719670-67f9-4141-a2d4-62a4b81d78b8" />
